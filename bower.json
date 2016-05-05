@@ -1,0 +1,25 @@
+{
+  "name": "Wireframes_thrustdrill.com",
+  "authors": [
+    "Copser <iamrmot@gmail.com>"
+  ],
+  "description": "redesign of thrustdrilling.com",
+  "main": "index.html",
+  "keywords": [
+    "realestate",
+    "contrustion"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.2"
+  }
+}
