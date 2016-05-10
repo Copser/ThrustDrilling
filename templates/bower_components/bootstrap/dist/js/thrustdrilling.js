@@ -1,6 +1,7 @@
 // Buidling Thrustdrilling animation, beginning with JQuery
 $(function(){
 
+
     $('#anime1').click(function(){
 
         $('.column').each(function(){

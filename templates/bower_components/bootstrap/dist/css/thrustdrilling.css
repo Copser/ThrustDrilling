@@ -44,3 +44,10 @@
 .fa {
     color: gray;
 }
+
+/* Open Layer map */
+
+.map {
+    height: 470px;
+    width: 100%;
+}
